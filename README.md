@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharushi Weerasinghe</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushi08&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi08" /> </p>
+
 - 🌱 I’m currently learning **C# , .Net , Unity**
 
 - 💬 Ask me about **HTML ,CSS,Figma etc.**
